@@ -1,2 +1,2 @@
 # shopping-management
-Shopping and management system using Python and GUI.
+Shopping and management system using Python, MySQL and GUI programming.
